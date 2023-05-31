@@ -12,6 +12,12 @@
 7. Execute Queries as explained below
 
 ## Instructions to execute query:
+**Sample Queries to execute:**
+
+*1. List all problems in printer deskjet by brand HP*
+
+*2. Show bar graph of sentiments for printer deskjet by brand HP*
+
 **General Query Structure:** 
 
 _____ *problems/positive/negative/bargraph of sentiments*  ___ *printer/laptop/desktop* {PRODUCT NAME} by brand {BRAND NAME}
