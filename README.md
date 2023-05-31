@@ -30,7 +30,7 @@ To see a bar graph depicting number of reviews in each category (Negative, Posit
 ## Hosted website link to execute query (only for stored products):
 http://csa2.onrender.com/
 
-*Note: As it uses the free tier of Render, it takes times some minutes to load the first time, it may also show an error connecting : please click the reload button and it should work in a few minutes*
+*Note: As it uses the free tier of Render, it takes some minutes to load the first time, it may also show an error connecting : please click the reload button and it should work in a few minutes*
 
 
 
