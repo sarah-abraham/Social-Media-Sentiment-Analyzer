@@ -1,4 +1,4 @@
-# Customer Sentiment Analyzer
+# Customer Review Analyzer
 
 
 
